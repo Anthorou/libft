@@ -1,2 +1,2 @@
 # libft
-La Libft est une bibliotheque de fonction utile que j'ai coder comme projet.
+La Libft est une bibliothèque de fonctions utiles que j'ai codée en tant que projet.
